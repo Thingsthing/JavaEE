@@ -1,0 +1,5 @@
+com\example\messagingstompwebsocket\GreetingController.class
+com\example\messagingstompwebsocket\MessagingstompwebsocketApplication.class
+com\example\messagingstompwebsocket\HelloMessage.class
+com\example\messagingstompwebsocket\Greeting.class
+com\example\messagingstompwebsocket\WebSocketConfig.class
